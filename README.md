@@ -1,1 +1,1 @@
-This is a README file for my Data Analysis Projects Repo
+This is a README file for my Data Analysis Projects Repository
